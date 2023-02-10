@@ -1,4 +1,4 @@
-# Selected2_project
+# Face-Recognition-2.0
 
 This drive contains:
  -The paper
@@ -11,3 +11,5 @@ This drive contains:
  -2 files (.npz) pins-faces-dataset for dataset after being extracted and pins-faces-embeddings
 
 https://drive.google.com/drive/folders/1Ch76S6UtmCWN0irpzdsWjPqI7_jayqdA
+
+<br><br>Collage Project with team
